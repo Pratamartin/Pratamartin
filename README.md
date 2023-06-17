@@ -3,7 +3,7 @@
 - 📚Curso Engenharia de Software || UFAM
 - 🌱Estudando Python para projetos de IA 
 - 🌱Estudando Backend com Nodejs e Express
-- 💻Email para contato - martinho.santos@icomp.ufam.edu.br
+- 💻Email: martinho.santos@icomp.ufam.edu.br
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
