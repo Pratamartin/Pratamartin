@@ -1,8 +1,8 @@
 ### Olá! Eu sou o  Martinho Prata👾
 
 - 📚Curso Engenharia de Software || UFAM
-- 🌱Estudando Python para projetos de IA 
 - 🌱Estudando Backend com Nodejs e Express
+- 🌱Estudando Backend com Java e SpringBoot
 - 💻Email: martinho.santos@icomp.ufam.edu.br
 
 <div style="display: inline_block"><br>
