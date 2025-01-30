@@ -1,8 +1,7 @@
 ### Olá! Eu sou o  Martinho Prata👾
 
-- 📚Curso Engenharia de Software || UFAM
-- 🌱Estudando Backend com Nodejs e Express
-- 🌱Estudando Backend com Java e SpringBoot
+- 📚Engenharia de Software || UFAM
+- 💻Desenvolvedor Full-Stack
 - 💻Email: martinhoprata95@gmail.com
 
 <div style="display: inline_block"><br>
