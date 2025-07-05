@@ -22,18 +22,9 @@
 </div>
 
 ---
-
-## GitHub Stats 
-
 [![Martinho's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pratamartin&show_icons=true&theme=blue-white)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pratamartin&layout=compact&theme=blue-white)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-## Contribution Activity
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=pratamartin&theme=blue-white&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
