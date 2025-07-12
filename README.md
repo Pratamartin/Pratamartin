@@ -1,8 +1,8 @@
-# Hi! Martinho Prata here 👾
+# Hi there! 👋 I'm Martinho Prata 👾
 
-- 📚 Software Engineering Student - UFAM  
-- 💻 Full-Stack Developer  
-- 📩 Email: martinhoprata95@gmail.com  
+- 🎓 **Software Engineering Student** — UFAM  
+- 💻 **Full-Stack Developer**  
+- 📫 **Email**: [martinhoprata95@gmail.com](mailto:martinhoprata95@gmail.com)
 
 ---
 
@@ -22,9 +22,17 @@
 </div>
 
 ---
-[![Martinho's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pratamartin&show_icons=true&theme=blue-white)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pratamartin&layout=compact&theme=blue-white)](https://github.com/anuraghazra/github-readme-stats)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=pratamartin&show_icons=true&theme=tokyonight" alt="github stats"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratamartin&layout=compact&theme=tokyonight" alt="top languages"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
